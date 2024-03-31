@@ -3,9 +3,13 @@ title: About
 layout: about
 ---
 
-I'm an engineer and investor.
+Ah, what's the purpose of this?
 
-Somethings i believe -
+Maybe [Learn in Public](https://www.swyx.io/learn-in-public), inspired by [lee](https://leebyron.com/til/).
+
+Ok, I will add things I believe, that should update itself once every so often.
+
+Things i believe -
 1. “make mistakes of ambition and not mistakes of sloth.” — machiavelli. i would rather constantly bite more than i can chew, than settle for mediocrity and never know the extent of my capabilities.
 
 1. startups
