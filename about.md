@@ -17,18 +17,18 @@ Somethings i believe -
    - moments are fleeting, people endure.
 
 
-1. Enthusiasm matters.
+1. enthusiasm matters.
     - Easier and more fun to work on things that feel exciting to me.
     - energy is a necessary input for progress.
     - likely to achieve bigger than smaller things.
 
-1. Smaller teams are better.
+1. smaller teams are better.
     - Faster decision, fewer meetings.
     - "No need to chop up work for political reasons"
     - Small team with B/C players may not even survive.
     - Tech firms are 3x-10x overstaffed.
 
-1. What excites me?
+1. what excites me?
     - Make things. Get stuff done.
     - Make checklist, and cross things on the list.
     - i like working with exceptional people who challenge and expand my worldviews. building a startup is by far the best way to do this quickly.

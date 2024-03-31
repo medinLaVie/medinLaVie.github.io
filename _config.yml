@@ -34,10 +34,20 @@ github_username:  medinLaVie
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-toc
 
 # https://stackoverflow.com/questions/52762454/jekyll-markdown-with-line-feed-is-not-rendered-in-html
 kramdown:
   hard_wrap: true
+
+# https://heymichellemac.com/table-of-contents-jekyll
+# TOC Settings
+toc:
+ min_level: 1
+ max_level: 3
+ list_class: toc
+ list_class: toc__list
+ sublist_class: toc__sublist
 
 # Exclude from processing.
 # The following items will not be processed, by default.
