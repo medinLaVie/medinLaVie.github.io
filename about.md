@@ -1,8 +1,8 @@
 ---
 title: About
-layout: default
+layout: page
 ---
 
-I should write about a page about myself. 
+I should write about a page about myself.
 
-
+Okay, update me.
