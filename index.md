@@ -5,6 +5,7 @@
 layout: default
 ---
 
+<!-- show all the posts -->
 <ul>
   {% for post in site.posts %}
     <li>
