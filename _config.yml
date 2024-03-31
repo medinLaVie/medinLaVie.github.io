@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: M.K.
+title: M.K
 # email: mengke.ding@gmail.com
 # description: >- # this means to ignore newlines until "baseurl:"
   #Write an awesome description for your new site here. You can edit this
@@ -34,6 +34,10 @@ github_username:  medinLaVie
 theme: minima
 plugins:
   - jekyll-feed
+
+# https://stackoverflow.com/questions/52762454/jekyll-markdown-with-line-feed-is-not-rendered-in-html
+kramdown:
+  hard_wrap: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

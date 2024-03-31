@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "A Musing on the Beginning"
 date:   2024-03-30 19:21:50
 categories:

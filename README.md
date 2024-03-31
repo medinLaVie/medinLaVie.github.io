@@ -112,6 +112,7 @@ https://shopify.github.io/liquid/basics/introduction/
   {{ product.title }}
 {% endfor %}
 
+<!-- template -->
 {% assign verb = "turned" %}
 {% comment %}
 {% assign verb = "converted" %}
@@ -121,12 +122,32 @@ is {{ verb }} into a comment.
 
 ```
 
+## Font
+https://fonts.google.com/
+
+## SCSS
+https://sass-lang.com/guide/#preprocessing
+
+## Themes
+[A clean and minimalist theme for Jekyll](https://news.ycombinator.com/item?id=20806300)
+
+https://github.com/joway/hugo-theme-yinyang?tab=readme-ov-file
+
+
+
 ## Docs and Talks
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+## Options
+https://jekyllrb.com/
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll
+https://www.gatsbyjs.com/showcase/
+
+https://docusaurus.io/showcase
 
 
 # MISC

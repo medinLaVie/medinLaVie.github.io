@@ -1,0 +1,12 @@
+---
+---
+@import "minima";
+
+.post-words {
+    @include relative-font-size(0.75)
+  }
+
+.page-content-custom {
+    padding-left: $spacing-unit;
+    padding-right: $spacing-unit;
+}
