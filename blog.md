@@ -1,6 +1,6 @@
 ---
-title: Blog
-layout: post
+# title: Blog
+layout: home
 ---
 
-Okay, now list your posts here.
+<!-- Okay, now list your posts here. -->
