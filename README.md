@@ -1,31 +1,31 @@
 # medinLaVie.github.io
 
-`rvm install ruby` has been stuck on my laptop for 5m+. I gave up. I'm going to use github workplace as it seems more convenient. 
+`rvm install ruby` has been stuck on my laptop for 5m+. I gave up. I'm going to use github workplace as it seems more convenient.
 
-I meant to check out the github workplace more often, as an alternative. Yay! both ruby/gem/jekyll up-to-date versions were already installed. 
+I meant to check out the github workplace more often, as an alternative. Yay! both ruby/gem/jekyll up-to-date versions were already installed.
 
-It takes only 1 min to setup the workplace, and I'm ready to code. 
+It takes only 1 min to setup the workplace, and I'm ready to code.
 
 Github Workplace is pretty cool. (at least, I found the experience pleasant so far.)
 
-Pros: 
+Pros:
 - agnostic to the local compute resource.
-- perfect to write a blog / fix a bug on the personal site.  
+- perfect to write a blog / fix a bug on the personal site.
 
 
-Cons: 
-- requires good network 
+Cons:
+- requires good network
 
 
-Okay, now I just have to find the right jekyll templates. 
+Okay, now I just have to find the right jekyll templates.
 
 https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
 
 
-# How to add a page? 
-Say, if you want to add /about /projects /contact. How do you do that? 
+# How to add a page?
+Say, if you want to add /about /projects /contact. How do you do that?
 https://jekyllrb.com/docs/pages/
-- add an HTML file 
+- add an HTML file
 - add a markdown file
 
 ```
@@ -39,7 +39,7 @@ https://jekyllrb.com/docs/pages/
 https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll#building-your-site-locally
 
 1. bundle install
-2. 
+2.
 ```
 $ bundle exec jekyll serve
 > Configuration file: /Users/octocat/my-site/_config.yml
@@ -82,6 +82,44 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
+
+# Liquid 101
+https://shopify.github.io/liquid/basics/introduction/
+
+## Objects
+`Objects` contain the content that Liquid displays on a page.
+- Objects and variables are displayed when enclosed in double curly braces: {{ and }}.
+
+`Tags` create the logic and control flow for templates.
+- The curly brace percentage delimiters {% and %} and the text that they surround do not produce any visible output when the template is rendered.
+- This lets you assign variables and create conditions or loops without showing any of the Liquid logic on the page.
+
+`Template` tags tell Liquid where to disable processing for comments or non-Liquid markup,
+- and how to establish relations among template files.
+
+
+```liquid
+<!-- output -->
+{{ page.title }}
+
+<!-- control flow -->
+{% if user %}
+  Hello {{ user.name }}!
+{% endif %}
+
+<!-- iteration -->
+{% for product in collection.products %}
+  {{ product.title }}
+{% endfor %}
+
+{% assign verb = "turned" %}
+{% comment %}
+{% assign verb = "converted" %}
+{% endcomment %}
+Anything you put between {% comment %} and {% endcomment %} tags
+is {{ verb }} into a comment.
+
+```
 
 ## Docs and Talks
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].

@@ -40,5 +40,3 @@ of exposing them.
 No more hiding behind the curtains,
 no more safety.
 Enter the sea of danger and wonder.
-
-11:34am 3/31/2024
