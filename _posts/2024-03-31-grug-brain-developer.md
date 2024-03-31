@@ -60,7 +60,7 @@ also sometimes call demo approach "prototype", sound fancier to project manager
 
 grug say prototype early in software making, especially if many big brains
 
-## Testing
+### Testing
 grug have love/hate relationship with test: test save grug many, many uncountable time and grug love and respect test
 
 unfortunately also many test shamans exist. some test shaman make test idol, demand things like "first test" before grug even write code or have any idea what grug doing domain!
