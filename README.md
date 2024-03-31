@@ -22,4 +22,17 @@ Okay, now I just have to find the right jekyll templates.
 https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
 
 
+How to add a page? 
+Say, if you want to add /about /projects /contact. How do you do that? 
+https://jekyllrb.com/docs/pages/
+- add an HTML file 
+- add a markdown file
+
+```
+.
+├── about.md    # => http://example.com/about.html
+├── index.html    # => http://example.com/
+└── contact.html  # => http://example.com/contact.html
+```
+
 
