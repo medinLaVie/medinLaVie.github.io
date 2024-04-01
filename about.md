@@ -5,7 +5,7 @@ layout: about
 
 Ah, what about me?
 
-Maybe [Learn in Public](https://www.swyx.io/learn-in-public), inspired by [Lee](https://leebyron.com/til/).
+Maybe [learn in public](https://www.swyx.io/learn-in-public), inspired by [lee](https://leebyron.com/til/).
 
 Ok, I will add things I believe first, which should update itself every so often; I will also add things I've learned along this journey.
 
