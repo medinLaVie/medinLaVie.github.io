@@ -143,11 +143,20 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/
 
 ## Options
+[Blog]
 https://jekyllrb.com/
 https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll
 https://www.gatsbyjs.com/showcase/
 
 https://docusaurus.io/showcase
+
+[Documentation]
+https://docusaurus.io/docs/next
+Gatsby
+- https://docusaurus.io/docs/next#gatsby
+- https://www.gatsbyjs.com/starters/
+
+
 
 
 # MISC
