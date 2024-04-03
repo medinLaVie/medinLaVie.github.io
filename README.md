@@ -156,7 +156,9 @@ Gatsby
 - https://docusaurus.io/docs/next#gatsby
 - https://www.gatsbyjs.com/starters/
 
+[Supabase](https://supabase.com/blog/chatgpt-supabase-docs)
 
+https://stripe.com/newsroom/news/bfcm2023
 
 
 # MISC

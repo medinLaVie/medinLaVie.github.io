@@ -29,7 +29,11 @@ Things i believe -
 1. smaller teams are better.
     - faster decision, fewer meetings.
     - "No need to chop up work for political reasons"
-    - tech giants are probabaly 3x-10x overstaffed.
+    - tech co are probabaly 3x-10x overstaffed.
+
+1. less is more
+    - always remove fluff.
+    - remove overbearing info.
 
 1. what excites me?
     - make things. Get stuff done.
