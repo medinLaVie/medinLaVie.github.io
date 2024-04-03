@@ -9,13 +9,6 @@ layout: page
 
 > Calling people and team "toxic" is rarely helpful. It focuses on their impact instead of their actions.
 
-GPT
-Saying a person or team is "toxic" doesn't really help. It looks at the effect they have, not what they're doing wrong.
-
-I found a tweet this morning that made a lot of sense.
-
-
-
 It said we should be clear and specific when we talk about bad behavior. Just using vague, negative words like "toxic" doesn't do much good, even if we're just thinking them.
 
 A useful warning tells you exactly what actions are causing problems and keeps happening.
