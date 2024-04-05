@@ -10,19 +10,19 @@ layout: page
 
 A few general trends on the AI movement
 
-1. model chats (texts, images based on text instructions)
+1. chats (texts, images based on text instructions)
     - bing chat
-    - mixtral chat
+    - mixtral
     - chatgpt
-    - llama etc.
-
-1. model wrappers
-    - cloud providers (openai, mixtral, fireworksai, huggingface?)
-
-1. ai model data ingestion
-    - [airbyte](https://airbyte.com/tutorials)
-        - [pyairbyte](https://docs.airbyte.com/using-airbyte/pyairbyte/getting-started), which can be used in the local development
-
+    - claude.ai
+    - llama
+    - gemini/bard
+    - https://www.perplexity.ai/search/
+    - https://gemini.google.com/app
+    - https://exa.ai/search?c=all
+1. music
+    - [text to music](https://app.suno.ai/create/)
+        - [Text-to-music AI generation with Suno co-founder Mikey Shulman](https://youtu.be/jl_aABkYQ3s?feature=shared&t=126)
 
 1. voice
     - lip sync given a video
@@ -31,12 +31,34 @@ A few general trends on the AI movement
     - new video based on prompts
 
 
+1. model wrappers in cloud
+    - cloud providers (openai, mixtral, fireworksai, huggingface?)
+
+1. data ingestion into ai models
+    - [airbyte](https://airbyte.com/tutorials)
+        - [pyairbyte](https://docs.airbyte.com/using-airbyte/pyairbyte/getting-started), which can be used in the local development
+
+
+1. tasks (ai agentic workflows)
+    - openai [assistent api](https://cookbook.openai.com/examples/assistants_api_overview_python)
+
 1. ai agents integration
-    - excel func
+    - langchain
+        - (ft. [What's next for AI agents ft. LangChain's Harrison Chase](https://youtu.be/pBBe1pk8hf4?feature=shared&t=79))
+        - [LangChain.js + Azure: A Generative AI App Journey | JavaScript Dev Day](https://youtu.be/nYXSKs8qMY8?feature=shared&t=404) (3/25/24)
+        - [Building Corrective RAG from scratch with open-source, local LLMs](https://youtu.be/E2shqsYwxck?feature=shared&t=226) (2/16/24)
+            - https://hamel.dev/blog/posts/evals/
+            - https://x.com/LangChainAI/status/1775569294241472810?s=20
+            - https://js.langchain.com/docs/integrations/tools/duckduckgo_search
+        -[Chat with HackerNews using LangChain, OpenAI Functions and Streamlit](https://youtu.be/aReTR0NIP24?feature=shared&t=1603)
+    - zapier (ai tasks)
+
+    - integration with excel
 
 1. ai software engineer
     - devin ai
     - devka [github]()
+    - [swe agent from princeton](https://github.com/princeton-nlp/SWE-agent)
 
 1. ai-search
     - bing [copilot](https://www.bing.com/chat)
@@ -52,4 +74,18 @@ A few general trends on the AI movement
 **Reference**:
 1. https://www.ycombinator.com/blog/building-ai-models
 1. https://www.8vc.com/resources
-1. Streamline GenAI and RAG Data Pipelines with Airbyte and DataStax Astra DB ([video](https://www.crowdcast.io/c/nchvdml0fxde))
+1. Streamline GenAI and RAG Data Pipelines with Airbyte and DataStax Astra DB (1000 credtis) ([video](https://www.crowdcast.io/c/nchvdml0fxde))
+
+
+1. [Making AI accessible with Andrej Karpathy and Stephanie Zhan](https://youtu.be/c3b-JASoPi0?si=xqho37j_eJujYeKh&t=235) (3/26/24)
+-llmos
+    - text/image/vidoe/multi-models (llm params)
+    - cpu (llm transformers)
+    - gpus
+-open-source llm
+    - mixtral/llama is not technically open source, as those are like shared binaries.
+-finetuning
+    - the more you finetune on the same model, the more you are going to regress the other aspects
+
+1. [State of GPT | BRK216HFS](https://youtu.be/bZQun8Y4L2A?feature=shared&t=189)
+- https://www.reddit.com/r/Jokes/comments/3f4skt/so_a_japanese_company_and_a_north_american/
