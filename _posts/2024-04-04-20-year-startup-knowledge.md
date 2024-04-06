@@ -69,14 +69,14 @@ toc: true
 43. The trends that change the world are the ones that are part-inspiring, part-frightening.
 44. If you want to get into the right room, write well.
 45. How to come up with startup ideas: Virtual travel. Go to TikTok, Discords and Subreddits to understand what people want.
-46. Startup killers: Multi-tasking, too much capital, too little capital, perfectionism, not obsessed enough over details, too obsessed over competition, team burnout, constant pivots, no distribution, no fun anymore.
+46. `Startup killers:` Multi-tasking, too much capital, too little capital, perfectionism, not obsessed enough over details, too obsessed over competition, team burnout, constant pivots, no distribution, no fun anymore.
 47. The moment you start caring about what other people think, is the moment you start building your company like them
 48. Life is full of hidden taxes that slow you down. Taxes to keep in mind: attention tax, social tax, boss tax, commute taxes etc. What life taxes are slowing you down?
 49. Real feedback from colleagues, customers, bosses, investors is sobering. Seek it.
 50. The fastest way to grow your IG is to start a TikTok. The fastest way to grow a newsletter is to grow your X account. The fastest way to build a community is to make internet friends. The fastest way start a startup is to press publish on an idea.
 51. If you send a customer a marketing email, it better be good. Your trust is at stake.
 52. Get HD clear on WHO you're making it for, before WHAT you're making
-53. Life's too short and there's too much opportunity on the internet for you to hate what you do. If it isn't fun, find something else. If it's fun, enjoy every second.
+53.` Life's too short` and there's too much opportunity on the internet for you to hate what you do. If it isn't fun, find something else. If it's fun, enjoy every second.
 
 # Reference
 Greg's Letter (Greg Isenberg)
