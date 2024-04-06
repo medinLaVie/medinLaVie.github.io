@@ -9,8 +9,7 @@ layout: default
 
 <ul>
   {% for post in site.posts %}
-    <li style="list-style: none;">
-     -
+    <li>
        <a href="{{ post.url }}">{{ post.title }}</a>
        <!-- how to overwrite ro -->
        <span class="post-words">
