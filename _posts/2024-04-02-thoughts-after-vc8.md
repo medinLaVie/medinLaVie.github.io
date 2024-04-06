@@ -20,6 +20,8 @@ A few general trends on the AI movement
     - https://www.perplexity.ai/search/
     - https://gemini.google.com/app
     - https://exa.ai/search?c=all
+    - https://www.snowbrain.dev/
+
 1. music
     - [text to music](https://app.suno.ai/create/)
         - [Text-to-music AI generation with Suno co-founder Mikey Shulman](https://youtu.be/jl_aABkYQ3s?feature=shared&t=126)
