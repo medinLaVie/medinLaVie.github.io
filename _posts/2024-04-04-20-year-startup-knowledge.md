@@ -19,17 +19,17 @@ toc: true
 
 # Growth Hacks
 
-1. Boring Marketing: My secret weapon for organic growth. Their AI-driven SEO tactics are next level. If you want to boost your business through organic/Google Search, these guys will blow you away with what they can do. ✅
-1. ​You Probably Need A Robot: With over 60,000 people learning about AI and automation, this community is a goldmine for those eager to dive into AI. I'm still exploring its business potential, but the learning opportunity here is phenomenal. ✅
+1. Boring Marketing: My secret weapon for `organic` growth. Their AI-driven SEO tactics are next level. If you want to boost your business through organic/Google Search, these guys will blow you away with what they can do.
+1. ​You Probably Need A `Robot`: With over 60,000 people learning about AI and automation, this community is a goldmine for those eager to dive into AI. I'm still exploring its business potential, but the learning opportunity here is phenomenal.
 
 
 
 
 # 20 Years of startup Knowledge
-1. Jargon almost never helps your case. The simplest sentences make things happen.
+1. `Jargon` almost never helps your case. The simplest sentences make things happen.
 1. There are no guarantees in business. Right now, Google is a $2 trillion dollar company walking around with their pants on fire because of AI. Even Google can get disrupted. Just because your business is doing well today, doesn’t it mean it will tomorrow. All we have with 100% certainty is today.
-1. Avoid “trust me” people. Constantly the most untrustworthy people.
-1. 3 types of goals to hold sacred. Your someday goals. Your 1 year goals. Your daily goals. Everything else doesn’t matter.
+1. Avoid “`trust me`” people. Constantly the most untrustworthy people.
+1. 3 types of goals to hold sacred. Your someday goals. Your `1 year` goals. Your `daily` goals. Everything else doesn’t matter.
 1. I used to think a low follower to followee ratio was cool. Now I think the opposite. Avoid people who play status games.
 1. More direct reports you have, the more stress you'll have. That's okay. Just have to acknowledge it.
 1. Nothing is out of reach. I remember that feeling, on the come up. Top people felts unreachable. They’re just like you.
@@ -37,7 +37,7 @@ toc: true
 1. When someone uses your product, they are having a dialogue with you. It’s kinda spiritual. Will they understand your vision like you do?
 1. Whenever you’re frustrated with business or life, get up and reset with music. For me, it’s reggae. I can’t be mad at life when reggae is playing.
 1. Find all your business partners from either people you grew up with or people you find fascinating on the internet, and nothing in between.
-1. How to hire: based on integrity, grit and how quickly (and willing) they are to learn.
+1. How to hire: based on `integrity, grit and how quickly (and willing) they are to learn.`
 15. Replace the words `revenue` and `valuation`, with `profit` and `impact`. Good things will happen and you’ll sleep like a baby.
 16. Wake up thinking of `cash-flow`, go to sleep thinking of cash-flow. Being dependent on anyone is always less than ideal. Zuck or VCs. The more cash flow you have, the less dependencies you have.
 17. If you want to write an angry email, wait 24h and see if you’d word it differently tomorrow. `Hard to write good emails when you're angry`.
@@ -54,7 +54,7 @@ toc: true
 28. Your quality of life increases when you screen time goes down.You’re more productive and happy.
 29. People underestimate a good name for a product. Own a good name. Bonus points if its a `dotcom`. The internet rewards `catchy` names.
 30. When you get rejected,I always remind myself: something about getting rejected makes you want it more. Helps with focus too.
-31. The real minimum viable product is just a social post. You’ll validate more than 99% of MVPs through a tweet or an IG post.
+31. The real minimum viable product is just a social post. You’ll `validate more than 99% of MVPs through a tweet` or an IG post.
 32. When you’re thirsty, it’s too late to be thinking about digging a well
 33. We often undervalue what we have and overvalue what we don’t have
 34. Don’t follow growth hacks. If someone is telling you about them, it’s too late
