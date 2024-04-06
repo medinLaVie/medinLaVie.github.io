@@ -13,6 +13,7 @@ A few general trends on the AI movement
 1. chats (texts, images based on text instructions)
     - [chatgpt](https://chat.openai.com)
     - [bing.com/chat](https://bing.com/chat)
+    - [vercel: gpt comparison](https://sdk.vercel.ai/chat)
     - mixtral
     - [claude.ai](https://claude.ai/chats)
     - [llama](https://labs.perplexity.ai/)
