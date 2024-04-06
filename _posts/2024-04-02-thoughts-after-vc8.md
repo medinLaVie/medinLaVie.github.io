@@ -1,5 +1,5 @@
 ---
-title:  "Thoughts after vc8"
+title:  "AI Tools"
 date:   2024-04-02 10:20:00 # 4/3 10:20-
 layout: page
 #
@@ -11,12 +11,12 @@ layout: page
 A few general trends on the AI movement
 
 1. chats (texts, images based on text instructions)
-    - bing chat
+    - [chatgpt](https://chat.openai.com)
+    - [bing.com/chat](https://bing.com/chat)
     - mixtral
-    - chatgpt
-    - claude.ai
-    - llama
-    - gemini/bard
+    - [claude.ai](https://claude.ai/chats)
+    - [llama](https://labs.perplexity.ai/)
+    - [gemini/bard](https://gemini.google.com/app)
     - https://www.perplexity.ai/search/
     - https://gemini.google.com/app
     - https://exa.ai/search?c=all
