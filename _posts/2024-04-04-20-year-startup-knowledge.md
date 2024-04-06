@@ -61,7 +61,7 @@ toc: true
 35. Accept pain, don’t suffer (pain is inevitable, suffering is optional)
 36. T-shirt test. Your brand should be so good people want to wear it on t-shirts.
 37. Give customers a little more than they expect. “Bonuses” go a long way.
-38. Start even if you’re bad. Get going then get good.
+38. `Start even if you’re bad. Get going then get good.`
 39. You don't need a green card to the US to "make it" and be wealthy anymore. You need to show up on the internet consistently and get loud.
 40. Everyone is in the acquisition and retention business. You're either attracting customers or keeping customers. Usually both. Be confident in how you’re doing it.
 41. You’ll be a lot less happy (and wealthy) if you do what other people expect of you.
