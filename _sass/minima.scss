@@ -50,3 +50,32 @@ $on-laptop: 800px !default;
 "minima/layout",
 "minima/syntax-highlighting"
 ;
+
+
+.toc__list:before {
+  // content: "Table Of Contents";
+  // font-weight: bold;
+  // font-size: 1.5rem;
+}
+
+.toc__list {
+  // border: 2px solid #eee;
+  // border-radius: 4px;
+  line-height: 1.8rem;
+  padding: 1rem 1.5rem;
+  font-weight: 600;
+}
+
+.toc__sublist li {
+  padding-left: 1.25rem;
+}
+
+#toc a {
+  color: burlywood;
+  text-decoration: underline;
+}
+
+// https://www.colorhexa.com/d9ac73
+#toc a:hover {
+  color: #d9ac73;
+}

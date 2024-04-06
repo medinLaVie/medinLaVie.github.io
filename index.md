@@ -10,11 +10,11 @@ layout: default
 <ul>
   {% for post in site.posts %}
     <li style="list-style: none;">
-    {{ post.date | date: "%m/%d/%y"}} -
+     -
        <a href="{{ post.url }}">{{ post.title }}</a>
        <!-- how to overwrite ro -->
        <span class="post-words">
-       ({{ post.content | number_of_words }} words)
+       ({{ post.content | number_of_words }} words, {{ post.date | date: "%m/%d/%y"}} )
        </span>
     </li>
   {% endfor %}
