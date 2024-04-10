@@ -13,8 +13,12 @@ A few general trends on the AI movement
 1. chats (texts, images based on text instructions)
     - [chatgpt](https://chat.openai.com)
     - [bing.com/chat](https://bing.com/chat)
-    - [vercel: gpt comparison](https://sdk.vercel.ai/chat)
+    - [labs.perplexity.ai](https://labs.perplexity.ai/)
+    - [vercel: gpt comparison](https://sdk.vercel.ai)
+    - [hf.co/chat](https://huggingface.co/chat/)
     - mixtral
+    - [cohere-]
+        - https://docs.cohere.com/page/application-examples
     - [claude.ai](https://claude.ai/chats)
     - [llama](https://labs.perplexity.ai/)
     - [gemini/bard](https://gemini.google.com/app)
@@ -36,6 +40,8 @@ A few general trends on the AI movement
 
 1. model wrappers in cloud
     - cloud providers (openai, mixtral, fireworksai, huggingface?)
+    - https://lightning.ai/studios
+
 
 1. data ingestion into ai models
     - [airbyte](https://airbyte.com/tutorials)
@@ -56,7 +62,10 @@ A few general trends on the AI movement
         -[Chat with HackerNews using LangChain, OpenAI Functions and Streamlit](https://youtu.be/aReTR0NIP24?feature=shared&t=1603)
     - zapier (ai tasks)
 
-    - integration with excel
+    - integration with excel (https://numerous.ai/)
+    - LLM A&A
+        - https://www.ycombinator.com/companies/inkeep
+
 
 1. ai software engineer
     - devin ai
