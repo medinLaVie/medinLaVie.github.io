@@ -1,5 +1,5 @@
 ---
-title:  '"A few notes on reading Convex unique approach to AI\'s Backend-as-a-Service"'
+title:  '"A few notes on Convex - AI\'s Backend-as-a-Service"'
 date:   2024-04-09 10:20:00 # 4/10 16:25
 layout: page
 description: "James Crowling on database, rag, and dropbox - talk at Cerebral Valley"
