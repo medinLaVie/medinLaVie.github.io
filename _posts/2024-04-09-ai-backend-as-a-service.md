@@ -1,6 +1,7 @@
 ---
-title:  '"A few notes on Convex - AI\'s Backend-as-a-Service"'
-date:   2024-04-09 10:20:00 # 4/10 16:25
+title: '"A few notes on Convex - AI Backend-as-a-Service"'
+slug: "ai-convex-backend-notes"
+date: 2024-04-09 10:20:00 # 4/10 16:25
 layout: page
 description: "James Crowling on database, rag, and dropbox - talk at Cerebral Valley"
 # toc: true
@@ -9,7 +10,7 @@ description: "James Crowling on database, rag, and dropbox - talk at Cerebral Va
 
 Q: You recently released a vector database as part of Convex’s product offering. How has the advent of generative AI shaped the trajectory of your product roadmap?
 
-The simple answer is that we built vector search into Convex because there was demand for it. Perhaps the more profound answer is that we've been surprised at how well Convex is suited to AI applications. I have a belief that for the vast majority of AI apps, the hard part is building the app itself. There are a lot of AI apps where it talks to a model and uses vector search, but the thing teams find hard is to actually build the application around this desired product experience.
+The simple answer is that we `built vector search into Convex` because there was demand for it. Perhaps the more profound answer is that we've been surprised at how well Convex is suited to AI applications. I have a belief that for the vast majority of AI apps, the hard part is building the app itself. There are `a lot of AI apps where it talks to a model and uses vector search`, but the thing teams find hard is to actually build the application around this desired product experience.
 
 So, they need a platform like Convex - which makes it easy to talk to third party services, interact with models, provide vector search, run queries, and dynamically update client applications when data changes. While Convex was started before this boom in generative AI, it's turned out to be a surprisingly good fit for developers who want to move fast and build an AI application.
 
@@ -20,7 +21,7 @@ So of course, we'll make improvements to our vector search and continue to scale
 
 Q: LLMs have introduced an entirely new paradigm of computing. How are you thinking about the shift from deterministic to probabilistic computing inside of Convex?
 
-My model of the AI landscape is that LLMs are great at doing human tasks and computers are great at doing computer tasks.There's been a huge increase in efficiency from modern generative AI being able to come up with good approximate solutions to probabilistic jobs that once were the domain of humans. But, this hasn't reduced our reliance on logic and strong guarantees - things like databases, strong consistency, knowing your data is stored correctly and easy to interact with. Strong guarantees on the lower layers of the stack allow developers to move faster on the probabilistic stuff because they don’t have to deal with unexpected corner cases and ambiguity.
+My model of the AI landscape is that LLMs are great at doing human tasks and computers are great at doing computer tasks.There's been a huge increase in efficiency from modern generative AI being able to come up with good approximate solutions to probabilistic jobs that once were the domain of humans. But, this` hasn't reduced our reliance on logic and strong guarantees - things like databases, strong consistency, knowing your data is stored correctly and easy to interact with`. Strong guarantees on the lower layers of the stack allow developers to move faster on the probabilistic stuff because they don’t have to deal with unexpected corner cases and ambiguity.
 
 So, I think these two things go hand in hand. I don't think we should consider AI as a replacement for traditional systems engineering. In many ways, AI solves problems that humans are good at, but databases empower humans and AIs to do the interesting things that they do.
 
