@@ -82,6 +82,16 @@ A few general trends on the AI movement
     - semantic search in repo
     - automated code-gen unit test
 
+## Useful Cloud Providers
+1. airbyte
+1. pinecone.io (vector db)
+    - https://github.com/pinecone-io/examples
+    - https://github.com/pinecone-io/examples/blob/master/docs/quick-tour/hello-pinecone.ipynb
+1. predibase (managed finetune llm provider)
+
+1. llamaindex
+1. langchain
+1.
 
 **Reference**:
 1. https://www.ycombinator.com/blog/building-ai-models
