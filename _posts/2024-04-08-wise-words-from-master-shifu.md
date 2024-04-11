@@ -8,4 +8,4 @@ layout: page
 
 Whenever I'm being weak, I remind myself of the following:
 
-![wise-words-from kungfu panda](../../../assets/img/wise_words_from_master_shifu.png)
+![wise-words-from master shifu](../../../assets/img/wise_words_from_master_shifu.png)
