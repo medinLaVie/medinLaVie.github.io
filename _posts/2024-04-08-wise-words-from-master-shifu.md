@@ -19,3 +19,6 @@ More from master shifu
 1. “Every master must find his path to inner peace.”
 1. “Before the battle of the fist comes the battle of the mind.”
 1. “The mark of a true hero is humility.”
+
+Reference:
+https://github.com/karanveerm
