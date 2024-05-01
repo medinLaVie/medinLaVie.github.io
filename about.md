@@ -35,6 +35,10 @@ Things i believe -
     - always remove fluff.
     - remove overbearing info.
 
-1. what excites me?
-    - make things. Get stuff done.
-    - i like working with people who challenge and expand my worldviews.
+1. I love nerding about the world affairs and technologies. I like learning new things and sharing new knowledge with others.
+
+1. I like to work with people who challenge and can expand my worldviews.
+
+1. I'm opinionated and straightforward. I don't mind intense discussions about engineering/design tradeoffs. If we have arguments or miscommunication, I resolve conficts quickly and empathetically.
+
+1. I love moving fast. And having fun, like team trips on skiing or go-carting.

@@ -26,6 +26,8 @@ A few general trends on the AI movement
     - https://gemini.google.com/app
     - https://exa.ai/search?c=all
     - https://www.snowbrain.dev/
+    - https://chat.lmsys.org/
+
 
 1. music
     - [text to music](https://app.suno.ai/create/)
@@ -33,6 +35,9 @@ A few general trends on the AI movement
 
 1. voice
     - lip sync given a video
+    - [elevenlabs.io](https://elevenlabs.io/sign-up)
+    - [lovo.ai](https://lovo.ai/)
+
 
 1. video
     - new video based on prompts
