@@ -20,8 +20,12 @@ docker run hello-world
 # build docker image
 docker build -t my-image .
 
+# build docker image w .dockerfile
+docker build -t devika-devika-backend-engine -f devika.dockerfile .
+
 # run a container w a specific port mapping
 docker run -d -p 8080:80 my-image
+docker run -d -p 1337:1337 devika-devika-backend-engine
 
 # view container logs
 docker logs container_id
