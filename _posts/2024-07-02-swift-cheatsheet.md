@@ -6,3 +6,10 @@ layout: page
 toc: true
 # categories:
 ---
+
+## Swift Cheatsheet
+
+Just found that iOS development became easier with Swift vs. Objc.
+https://developer.apple.com/swift/
+
+Syntax seems similar to Jetpack Compose.
