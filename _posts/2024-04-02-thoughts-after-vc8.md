@@ -39,7 +39,7 @@ A few general trends on the AI movement
 
 1. video
     - new video based on prompts
-    - [pika.ai](https://pika.art/home)
+    - [pika.ai](https://pika.art/home) (11/28/2023, https://x.com/karpathy/status/1729545506890932536)
 
 1. music
     - [text to music](https://app.suno.ai/create/)
