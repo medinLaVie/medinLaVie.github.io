@@ -24,3 +24,5 @@ I think as technical people we have a strong bias to put up code or papers or th
 
 TLDR: Step 1 build the thing. Step 2 build the ramp. 📈
 Some voice in your head will tell you that this is not necessary, but it is wrong.
+
+source: https://x.com/karpathy/status/1760388761349927356 (2/21/24, kaparthy)
