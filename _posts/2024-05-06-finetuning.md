@@ -11,6 +11,11 @@ A Recipe for Training Neural Networks
 - a collection of attempted advice for training neural nets with a focus on how to structure that process over time
 https://karpathy.github.io/2019/04/25/recipe/
 
+
+## Common Mistakes
+most common neural net mistakes: 1) you didn't try to overfit a single batch first. 2) you forgot to toggle train/eval mode for the net. 3) you forgot to .zero_grad() (in pytorch) before .backward(). 4) you passed softmaxed outputs to a loss that expects raw logits. ; others? :)
+source: https://x.com/karpathy/status/1013244313327681536 (2018)
+
 ## TWeets
 New open weights LLM from 
 @MistralAI
