@@ -41,6 +41,8 @@ A few general trends on the AI movement
     - new video based on prompts
     - [pika.ai](https://pika.art/home) (11/28/2023, https://x.com/karpathy/status/1729545506890932536)
 
+1. video/audio transcribe
+    - https://karpathy.ai/lexicap/ (9/26/2022, https://x.com/karpathy/status/1574474950416617472)
 1. music
     - [text to music](https://app.suno.ai/create/)
         - [Text-to-music AI generation with Suno co-founder Mikey Shulman](https://youtu.be/jl_aABkYQ3s?feature=shared&t=126)
