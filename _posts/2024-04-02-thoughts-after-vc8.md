@@ -11,15 +11,21 @@ layout: page
 A few general trends on the AI movement
 
 1. chats (texts, images based on text instructions)
-    - [chatgpt](https://chat.openai.com)
-    - [bing.com/chat](https://bing.com/chat)
     - [labs.perplexity.ai](https://labs.perplexity.ai/)
+    - phind.com
+    - https://search.lepton.run/ (search)
+    - [chatgpt](https://chat.openai.com)
+    - [claude.ai](https://claude.ai/chats)
+    - [bing.com/chat](https://bing.com/chat)
+    - bard.google.com
+    - www.meta.ai
+
     - [vercel: gpt comparison](https://sdk.vercel.ai)
     - [hf.co/chat](https://huggingface.co/chat/)
     - mixtral
     - [cohere-]
         - https://docs.cohere.com/page/application-examples
-    - [claude.ai](https://claude.ai/chats)
+    
     - [llama](https://labs.perplexity.ai/)
     - [gemini/bard](https://gemini.google.com/app)
     - https://www.perplexity.ai/search/
@@ -28,6 +34,9 @@ A few general trends on the AI movement
     - https://www.snowbrain.dev/
     - https://chat.lmsys.org/
 
+1. image
+- https://playground.com (edit image)
+- 
 
 1. music
     - [text to music](https://app.suno.ai/create/)
