@@ -35,11 +35,11 @@ A few general trends on the AI movement
     - https://chat.lmsys.org/
 
 1. image
-- https://playground.com (edit image)
+    - https://playground.com (edit image)
 
 1. video
-- new video based on prompts
-- [pika.ai](https://pika.art/home)
+    - new video based on prompts
+    - [pika.ai](https://pika.art/home)
 
 1. music
     - [text to music](https://app.suno.ai/create/)
