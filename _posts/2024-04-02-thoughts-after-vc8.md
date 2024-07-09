@@ -36,7 +36,10 @@ A few general trends on the AI movement
 
 1. image
 - https://playground.com (edit image)
-- 
+
+1. video
+- new video based on prompts
+- [pika.ai](https://pika.art/home)
 
 1. music
     - [text to music](https://app.suno.ai/create/)
@@ -47,20 +50,13 @@ A few general trends on the AI movement
     - [elevenlabs.io](https://elevenlabs.io/sign-up)
     - [lovo.ai](https://lovo.ai/)
 
-
-1. video
-    - new video based on prompts
-
-
 1. model wrappers in cloud
     - cloud providers (openai, mixtral, fireworksai, huggingface?)
     - https://lightning.ai/studios
 
-
 1. data ingestion into ai models
     - [airbyte](https://airbyte.com/tutorials)
         - [pyairbyte](https://docs.airbyte.com/using-airbyte/pyairbyte/getting-started), which can be used in the local development
-
 
 1. tasks (ai agentic workflows)
     - openai [assistent api](https://cookbook.openai.com/examples/assistants_api_overview_python)
@@ -79,7 +75,6 @@ A few general trends on the AI movement
     - integration with excel (https://numerous.ai/)
     - LLM A&A
         - https://www.ycombinator.com/companies/inkeep
-
 
 1. ai software engineer
     - devin ai
