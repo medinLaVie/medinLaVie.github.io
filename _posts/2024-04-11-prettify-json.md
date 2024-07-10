@@ -1,5 +1,5 @@
 ---
-title:  "Prettify Json using Python"
+title:  "Prettify Json"
 date:   2024-04-11 9:00:00 # 4/3 10:20-
 layout: page
 #
