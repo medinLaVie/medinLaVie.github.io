@@ -1,5 +1,5 @@
 ---
-title:  "Scraping Web Using LLM"
+title:  "Prettify Json using Python"
 date:   2024-04-11 9:00:00 # 4/3 10:20-
 layout: page
 #
