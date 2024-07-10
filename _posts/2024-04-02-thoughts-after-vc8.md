@@ -92,7 +92,8 @@ A few general trends on the AI movement
         - https://docs.grit.io/language/overview
     - semantic search in repo
     - automated code-gen unit test
-
+1. vectorDB
+    - [vectorDB](https://weaviate.io/developers/weaviate/introduction) (open source db store both objects and vectors)
 ## Useful Cloud Providers
 1. airbyte
 1. pinecone.io (vector db)
