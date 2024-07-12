@@ -9,7 +9,7 @@ layout: page
 
 Refreshing perspectives on bad leadership. To know what's good leadership, we should know what's bad.
 
-![followers](../../assets/img/follower.png)
+![followers]({{ site.baseurl }}/assets/img/follower.png)
 
 Some Followers Are More Effective
 
