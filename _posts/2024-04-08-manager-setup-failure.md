@@ -8,7 +8,9 @@ layout: page
 
 Whenever I'm being weak, I remind myself of the following:
 
+
 ![wise-words-from master shifu]({{ site.baseurl }}/assets/img/wise_words_from_master_shifu.png)
+
 
 More from master shifu
 1. “Anything is possible when you have inner peace.”
