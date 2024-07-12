@@ -9,7 +9,6 @@ layout: page
 
 Refreshing perspectives on bad leadership. To know what's good leadership, we should know what's bad.
 
-
 # The Role of Follower
 Bosses are not necessarily good leaders; subordinates are not necessarily effective followers. Many bosses couldn’t lead a horse to water. Many subordinates couldn’t follow a parade. Some people avoid either role. Others accept the role thrust upon them and perform it badly.
 
@@ -25,7 +24,7 @@ Understanding motivations and perceptions is not enough, however. Since follower
 
 One dimension measures to what degree followers exercise independent, critical thinking. The other ranks them on a passive/active scale. The resulting diagram identifies five followership patterns.
 
-![followers](/assets/img/follower.png)
+![followers]({{ site.baseurl }}/assets/img/follower.png)
 
 Some Followers Are More Effective
 
