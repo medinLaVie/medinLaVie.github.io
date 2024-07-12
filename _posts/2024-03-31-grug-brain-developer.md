@@ -159,7 +159,7 @@ DRY mean Don't Repeat Self, powerful maxim over mind of most developers
 
 grug respect DRY and good advice, however grug recommend balance in all things, as gruggest big brain aristotle recommend
 
-![Dry vs. Readability](../../../assets/img/dry.png)
+![Dry vs. Readability](/assets/img/dry.png)
 
 ### [Seperation of Concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
 
