@@ -59,6 +59,8 @@ Some Followers Are More Effective
 1. Similarities and differences between leadership and followership roles.
 
 
-source: https://hbr.org/1988/11/in-praise-of-followers
+source: 
+- https://hbr.org/1988/11/in-praise-of-followers
+- https://barbarakellerman.com/articles/
 podcast: https://awesomeatyourjob.com/977-what-makes-leaders-bad-and-what-you-can-do-about-it-with-dr-barbara-kellerman/
 - [federalist papers](https://guides.loc.gov/federalist-papers/full-text)
