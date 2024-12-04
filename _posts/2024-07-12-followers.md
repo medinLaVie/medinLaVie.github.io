@@ -26,12 +26,11 @@ One dimension measures to what degree followers exercise independent, critical t
 
 ![followers]({{ site.baseurl }}/assets/img/follower.png)
 
-Some Followers Are More Effective
+### Some Followers Are More Effective
 
 **Sheep are passive and uncritical, lacking in initiative and sense of responsibility.** They perform the tasks given them and stop. Yes People are a livelier but equally unenterprising group. Dependent on a leader for inspiration, they can be aggressively deferential, even servile. **Bosses weak in judgment and self-confidence** tend to like them and to form alliances with them that can stultify the organization.
 
 **Alienated Followers are critical and independent in their thinking but passive in carrying out their role.** Somehow, sometime, something turned them off. Often cynical, they tend to sink gradually into disgruntled acquiescence, seldom openly opposing a leader’s efforts. In the very center of the diagram we have Survivors, who perpetually sample the wind and live by the slogan “better safe than sorry.” They are adept at surviving change.
-
 
 **Qualities of Followers**
 1. They manage themselves well.
@@ -44,10 +43,7 @@ Some Followers Are More Effective
 1. Courageous followers can keep a leader honest—and out of trouble.
 1. Groups with many leaders can be chaos. Groups with none can be very productive.
 
-
-
 **Follower Training**
-
 1. Building credibility.
 1. Disagreeing agreeably.
 1. Moving between the two roles with ease.
@@ -59,7 +55,7 @@ Some Followers Are More Effective
 1. Similarities and differences between leadership and followership roles.
 
 
-source: 
+source:
 - https://hbr.org/1988/11/in-praise-of-followers
 - https://barbarakellerman.com/articles/
 
