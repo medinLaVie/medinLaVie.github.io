@@ -1,12 +1,12 @@
 # medinLaVie.github.io
 
-Github Workplace is pretty cool. (at least, I found the experience pleasant so far.)
+Github Workplace is pretty cool.
 
 Okay, now I just have to find the right jekyll templates.
-
 https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
 
 
+====== begain:jekyll wiki ======
 ## How to add a page?
 Say, if you want to add /about /projects /contact. How do you do that?
 https://jekyllrb.com/docs/pages/
@@ -33,7 +33,6 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 
 ... which is shown in the screenshot below:
 ![My helpful screenshot](/assets/screenshot.jpg)
-
 ... you can [get the PDF](/assets/mydoc.pdf) directly.
 
 ### Add Code
@@ -68,9 +67,10 @@ $ bundle exec jekyll serve
 
 3. To preview your site, in your web browser, navigate to `http://localhost:4000`.
 
+==== end:jekyll wiki ====
 
-
-# Liquid 101
+==== begin:liquid syntax ====
+## Liquid 101
 https://shopify.github.io/liquid/basics/introduction/
 
 ## Objects
@@ -109,18 +109,18 @@ is {{ verb }} into a comment.
 
 ```
 
-## Font
+=== font ===
 https://fonts.google.com/
 
-## SCSS
+
+=== SCSS ===
 https://sass-lang.com/guide/#preprocessing
 
-## Themes
+=== jekyll themes ===
 [A clean and minimalist theme for Jekyll](https://news.ycombinator.com/item?id=20806300)
-
 https://github.com/joway/hugo-theme-yinyang?tab=readme-ov-file
 
-### Jekyll Minima
+=== jekyll minima theme ===
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
@@ -134,14 +134,14 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll
 
-## Jekyll Resource and Talks
+=== jekyll resource and talks ===
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 
-## Other Options for Blogs
+=== alternatives to jekyll ===
 [Blog]
 https://jekyllrb.com/
 https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll
@@ -151,10 +151,12 @@ https://docusaurus.io/showcase
 
 [Documentation]
 https://docusaurus.io/docs/next
-Gatsby
+
+[Gatsby]
 - https://docusaurus.io/docs/next#gatsby
 - https://www.gatsbyjs.com/starters/
 
 [Supabase](https://supabase.com/blog/chatgpt-supabase-docs)
 
+[docs]
 https://stripe.com/newsroom/news/bfcm2023
