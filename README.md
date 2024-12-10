@@ -1,9 +1,8 @@
 # medinLaVie.github.io
 
 Github Workplace is pretty cool.
-
-Okay, now I just have to find the right jekyll templates.
-https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
+###  deploy new changes to medinLaVie.github.io
+1. 
 
 
 ====== begain:jekyll wiki ======
@@ -121,6 +120,10 @@ https://sass-lang.com/guide/#preprocessing
 https://github.com/joway/hugo-theme-yinyang?tab=readme-ov-file
 
 === jekyll minima theme ===
+Okay, now I just have to find the right jekyll templates.
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
+
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
