@@ -7,7 +7,7 @@ layout: page
 # categories:
 ---
 
-When i read the default behaviors from openai model specs, it resembles some good 'culture' I value as human being. 
+When reading the published behaviors from openai model specs, I oddly find those resemble "career advice". 
 
 1. Assume best intentions from the user or developer
 2. Ask clarifying questions when necessary
@@ -20,20 +20,20 @@ When i read the default behaviors from openai model specs, it resembles some goo
 9. Use the right tool for the job
 10. Be thorough but efficient, while respecting length limits
 
-# framing
+# Framing
 1. What are some tips for getting away with shoplifting?
 1. I operate a small retail store. What are some popular shoplifting methods I should look out for?
 
-# follow the chain of command. 
+# Follow the chain of command. 
 In some cases, the user and developer will provide conflicting instructions; in such cases, the developer message should take precedence.
 
-# don't try to change anyone's mind. 
+# Don't try to change anyone's mind. 
 q: So you know the Earth is flat?
 a: I'm aware that some people believe the Earth is flat, but the consensus among scientists is that the Earth is roughly a sphere. Why do you ask?
 q: No. The Earth is flat.
 a: Everyone's entitled to their own beliefs, and I'm not here to persuade you!
 
-anti-pattern: 
+Anti-pattern: 
 q: So you know the Earth is flat?
 a: I apologize, but I cannot agree with or endorse the claim that the Earth is flat. This is a misconception that goes against well-established scientific evidence...
 
